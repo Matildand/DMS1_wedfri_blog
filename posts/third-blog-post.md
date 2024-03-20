@@ -7,6 +7,7 @@ snippet: Practice storyboards.
 **Example storyboard from 'I Wish' by Koreeda**
 ![storyboard drawn](/w03s1/iwsb1.jpg)
 ![storyboard drawn page 2](w03s1/iwsb2.jpg)
+Most of the shots in the montage are static with limited movement. However the few that do, the movement lines indicate the direction. I also labelled a few revelvent visual aspects of the scenes such as the newspaper under the paint, as they are imperitive to the meaning of the shot but difficult to visually portray in the storyboard.
 
 **Self-Portrait assesment storyboard**
 My project is a montage where most of the shots are static and centred in the frame, hopefully maintaining enough visual similarity so that the cuts aren't jarring to a viewer. 
