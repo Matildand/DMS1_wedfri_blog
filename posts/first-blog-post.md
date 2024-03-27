@@ -8,7 +8,7 @@ The scavenger hunt around the campus was successful, we found all ten in the lis
 
 **1.An explosive cup of coffee**
 
-![three of us at littlebang coffee](/w01s1/littlebang.jpg)
+![three of us at littlebang coffee](/w01s1/littlebang.jpeg)
 
 We figured out that all the coffee shops had fun names and looked around for one related to blowing up. we found the sign outside the actual shop and chose to take a selfie with that rather than going inside. 
 
@@ -65,3 +65,9 @@ This hint was obviously referring to a vending machine, but it took a while to f
 ![golden tower](/w01s1/goldtower.jpg)
 
 There seemed to be a lot of emphasis on the triangle corner of the map, so we decided to just go and see what was there. Its not visable in the photo but the gold globe is sitting on a row of three eights.
+
+
+
+
+
+.
