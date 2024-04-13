@@ -1,6 +1,6 @@
 ---
 title: Black Boxes Activity
-published_at: 2024-03-27
+published_at: 2024-04-11
 snippet: Using Illustrator 
 disable_html_sanitization: true
 ---

@@ -1,8 +1,9 @@
 ---
 title: Brainstorm AT2
-published_at: 2024-03-20
+published_at: 2024-04-13
 snippet: Brainstorming ideas for icons
 disable_html_sanitization: true
 ---
 
-One rough idea I had was inspired by Clueless and the outfit picker in the film, linking to the home prompt. I thought I could make icons for a machine or application that helps to sort and match outfits together. The audience would likely be teenage girls, interested in fashion and probably rich. Each of the icons would represent a type of clothing, or navigation of how to arrange them. 
+![brainstorm for icons](/w06s2/brainstorm.png)
+The idea I am focusing on the most is the library idea. I think that it has the most open ended icon options as genres are a generally apstract in how they are represented visually. These icons would be on a website, and used to navigate through the library to make searching for books of interest easier. The audience would vary between genres, I think I might to a childrens section so that would Obviously have a different target audience to the romance genre. Generally though, libraries are open to the general public so my aim is to make the icons accessible for everyone to see and understand. 
