@@ -10,13 +10,13 @@ disable_html_sanitization: true
 ![page 2 of designs](/w06s2/thumbnail2.png)
 
 **Fantasy**
-The simple wand sketch is the best out of the five, because 
+The simple wand sketch is the best out of the five, it is clear in its representation of the fantasy genre. It's made up of simple geometric shapes, with the diagonal line leading the eye to the star and sparkles at the end while also enforcing the playful, energic feel. 
 
-**Mystery**
-thumbprint 
+**Crime/Mystery**
+The knife 
 
 **Graphic Novel**
-shock 
+The shock 
 
 **Classics**
 masks
