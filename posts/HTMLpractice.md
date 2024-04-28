@@ -6,6 +6,6 @@ disable_html_sanitization: true
 ---
 
 **Swapping Out Images**
-![replaced](/static/w07s2/htmlicon.png)
+![replaced](/w07s2/htmlicon.png)
 
 I changed the origonal shapes with my own icons by adding pngs of the ones I had made to the HTML folder and just switching out the names of the files that were connected to the webpage. 
