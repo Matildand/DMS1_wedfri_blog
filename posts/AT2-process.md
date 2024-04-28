@@ -49,17 +49,20 @@ After seeing the icons on the webpage I felt that they appeared dull as there wa
 
 I also started to plan out the alternate icon state. my top two ideas were to either invert the colours or fill in the white with a darker tone of the background colour. I preferred the inverted version but felt the white background was too empty. I resolved this issue by adding an internal border around the background to maintain the shape and size. 
 
-**SOund effects**
+**Sound effects**
+
 Each of my sound effects were ideally to thematically match the book genre of the icon they are associated with. 
 I found most of them through either the youtube audio library or Freesound (Attributions at the end). I did record my own sound effect for the biography icon using voice memos on my phone. 
 I had trouble with the sounds being too loud and going into the red so I lowered the dB on Audition. 
 Making sure the sound effects were the right length was also difficult, but after some trial and error I found that around 4 seconds seemed to work for the longer sounds to still be snappy but without interfearing with the effect of the sound. 
 
 **Website Background**
+
 For the background, I initially made a brown textured background in illustrator as a rough draft to see how it would look behind the icons on the website, but ultimatly I decided to use Photoshop to create a wood-like design to fit with the library theme. 
 ![background](/progress_shots/back_IT.png)
 
 **Attributions**
+
 Knife slides.wav by scriptique -- License: Attribution 4.0 -- https://freesound.org/s/50817/
 
 laser beams by Podcapocalipsis -- License: Creative Commons 0 -- https://freesound.org/s/577383/
