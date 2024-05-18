@@ -13,7 +13,13 @@ disable_html_sanitization: true
 The idea of becoming more independent and self sufficient, and how that might be scary or intimidating. Slowly no longer relying on what others do or provide for you. This will be represented through the presence of man made objects in a wild setting that progressively become less helpful and frequent.
 
 **Assets**
-A list of assets (3D models, sounds, textures, etc.) that will be required for your project. Specify which you will create yourself, and which you will source or edit from elsewhere.
+
+- Trees
+- House
+- Campfire
+- Bridge 
+- Rocks 
+- Pathways
 
 **Change breakdown**
 
@@ -23,4 +29,5 @@ The environment will change progressivly throughout the journey to become darker
 
 
 **Map**
-A simple map of your environment, produced either traditionally or digitally, that shows how the user will move through the space. This should show how you will use elements such as landmarks, framing, pattern and contrast, etc.
+
+![map](/w09s1/map.png)
