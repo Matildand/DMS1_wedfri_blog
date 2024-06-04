@@ -6,6 +6,7 @@ disable_html_sanitization: true
 ---
 **Practice Wireframing**
 
+![pinterest](/w11s1/pin.png)
 
 I chose to use pinterest to wireframe from memory, and then recreated it after checking back with the source. The first frame I made has considerably more words and lacks the unique style of the actual site. I think its still identifiable as pinterest but its clear I was missing key aspects of the website. 
 
